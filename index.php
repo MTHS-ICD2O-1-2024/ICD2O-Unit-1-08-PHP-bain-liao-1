@@ -47,7 +47,7 @@
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img src="./images/notebook-animation.svg" alt="laptop image" />
+          <img src="./images/the-creature.png" alt="the creature" />
         </div>
         <div class="page-content">Instructions here ...</div>
         <br />
